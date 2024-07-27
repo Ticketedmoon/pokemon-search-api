@@ -1,3 +1,6 @@
+# ES cert stuff
+es-cert
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
