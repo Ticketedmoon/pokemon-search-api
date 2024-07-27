@@ -5,3 +5,6 @@ A pokemon search api. Project is built using Python, FastAPI, Elasticsearch, Log
 ### DevLog
 
 TBD
+
+### References
+- https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose

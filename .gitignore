@@ -1,5 +1,7 @@
 # ES cert stuff
 es-cert
+filebeat_ingest_data
+logstash_ingest_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
